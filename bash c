@@ -1,0 +1,61 @@
+[33mcommit 931592f0c7e26d3c3752a9c28b620aa9f52bdd02[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 23:03:16 2022 -0700
+
+    How to be up to date in git
+
+[33mcommit 2e68871ff35efed0195efd1440322a0029fb50f8[m
+Author: SolexJ1000 <79026376+SolexJ1000@users.noreply.github.com>
+Date:   Tue Aug 23 06:57:44 2022 +0100
+
+    Update README.md
+
+[33mcommit 5cc0e702407875d41811366fba147e809c117a9e[m
+Merge: 6b45fba 89fd2c3
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 22:48:56 2022 -0700
+
+    Merge branch 'master' of https://github.com/SolexJ1000/alx-pre_course
+
+[33mcommit 6b45fba058e264e3d278362bf115e82166dbeb55[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 22:43:44 2022 -0700
+
+    Hot fix
+
+[33mcommit 89fd2c3b3f92f1d009c73d40fcc783e3e72750ff[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 22:43:44 2022 -0700
+
+    Hot fix
+
+[33mcommit 2f497c815f948e3e649ccfe4d9180145be3e6962[m
+Merge: 41a9dbc 2aeb751
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 21:48:48 2022 -0700
+
+    Merge branch 'master' of https://github.com/SolexJ1000/alx-pre_course
+
+[33mcommit 41a9dbced7b607bd32e7535d0a9232c7fb80be6b[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 21:21:00 2022 -0700
+
+    Starting to code today, so cool
+
+[33mcommit 2aeb751eeac0b3b37416bd24209bc0687bf5c5d5[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 21:21:00 2022 -0700
+
+    Starting to code today, socool
+
+[33mcommit 635c121824258e812a513c93f0d8797223f4afa5[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 21:09:11 2022 -0700
+
+    Create a new file
+
+[33mcommit ebaeb42febc18a29cb5795c84cc576c88dfc8a86[m
+Author: SolexJ1000 <joseph.appolos60@gmail.com>
+Date:   Mon Aug 22 20:59:10 2022 -0700
+
+    My first commit
